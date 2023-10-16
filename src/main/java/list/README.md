@@ -1,4 +1,4 @@
-# Exercícios:
+# Exercícios DIO:
 
 1. Operações Básicas com List
 2. Pesquisa em List
